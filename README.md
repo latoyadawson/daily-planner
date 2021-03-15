@@ -11,7 +11,7 @@ This is a simple web page that iis a simple calendar application that allows a u
 * This web application uses third party api's such as Moment.js
 
 ## Screenshot
-![screenshot of startpage](/assets/images/startpage.jpg)
+![screenshot of startpage](/assets/images/startpage.png)
 
 
 ## User Story
